@@ -1,0 +1,109 @@
+.topnav{
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    margin-left: 20%;
+    margin-right: 25%;
+}
+
+.span {
+    display:inline-block;
+    border-bottom:1px solid black;
+    padding-bottom:5px;
+}
+
+.main {
+    font-size:25px;
+    color:black;
+    font-family: impact;
+    text-decoration: none;
+}
+
+#glassm{
+    margin-left: 10%;
+}
+
+#sugarc {
+    margin-left: 5%;
+}
+
+#mixedmediam {
+    margin-left: 5%;
+}
+
+#about {
+    margin-left: 7%;
+}
+
+#contact {
+    margin-left: 1%;
+}
+
+a#contact:link , a#contact:visited{
+    color:#FA9917;
+    border: 2px solid #FA9917;
+    padding: 4px 23px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a#contact:hover, a#contact:active{
+    background-color:#FA9917;
+    color:white;
+  }
+
+.sub {
+    letter-spacing: 1px;
+    color:black;
+    margin-left: 5%;
+    margin-right: 2%;
+    font-size:25px;
+    font-family: impact;
+    text-decoration: none;
+}
+
+
+
+
+#name {
+
+    letter-spacing: 2px;
+    font-size: 80px;
+    font-family:impact;
+    text-decoration: none;
+}
+
+a#name:link  {
+    color:#FA9917;
+}
+
+a#name:visited{
+    color:#FA9917;
+}
+
+a#name:hover {
+    border-bottom: solid 1px #FA9917;
+    display: inline;
+    padding-bottom: 10px;
+
+}
+
+a.main:link  {
+    font-size:25px;
+    color:black;
+    font-family: impact;
+    text-decoration: none;
+}
+
+a.main:hover {
+    border-bottom-width: 2px;
+    text-decoration-line: underline;
+}
+
+
+
+ 
+.images {
+    margin-left: 20%;
+    margin-right: 20%;
+    color: red;
+}
